@@ -1,0 +1,8 @@
+{
+  "name": "PulseVision Live Rep Counter",
+  "description": "An automated, vision-based fitness tracker that uses AI to detect exercises, count reps, and provide form feedback in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
